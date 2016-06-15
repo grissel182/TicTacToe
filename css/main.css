@@ -1,0 +1,29 @@
+button{
+ width: 150px;
+ height: 150px;
+ border: none;
+ font-size: 100px !important;
+ color:white;
+}
+.clicked{
+ 	background-color: gray;
+	height: 150px;
+	width: 150px;
+}
+/*.buttons{
+ background-color: blue;
+}*/
+.bloque:HOVER {
+ background-color: red;
+}
+
+
+.buttons {
+	background-color: green;
+/*	height: 150px;
+	width: 150px;
+	cursor: pointer;*/
+}
+.mt {
+	margin-top: 3%;
+}
