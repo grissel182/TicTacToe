@@ -1,3 +1,6 @@
+body {
+	font-family: 'Amatic SC', cursive !important;
+}
 button{
  width: 150px;
  height: 150px;
@@ -6,7 +9,7 @@ button{
  color:white;
 }
 .clicked{
- 	background-color: gray;
+ 	background-color: #B4B4B4;
 	height: 150px;
 	width: 150px;
 }
@@ -19,7 +22,7 @@ button{
 
 
 .buttons {
-	background-color: green;
+	background-color:#12C9AD;
 /*	height: 150px;
 	width: 150px;
 	cursor: pointer;*/
