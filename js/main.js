@@ -1,5 +1,13 @@
 var con=1;
-var b1="b1",b2="b2",b3="b3",b4="b4",b5="b5",b6="b6",b7="b7",b8="b8",b9="b9";
+var b1="b1",
+	b2="b2",
+	b3="b3",
+	b4="b4",
+	b5="b5",
+	b6="b6",
+	b7="b7",
+	b8="b8",
+	b9="b9";
 function actions(boton){
  if(boton.className=="buttons"){
   boton.className="clicked";

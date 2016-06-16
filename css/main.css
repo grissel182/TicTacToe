@@ -13,19 +13,8 @@ button{
 	height: 150px;
 	width: 150px;
 }
-/*.buttons{
- background-color: blue;
-}*/
-.bloque:HOVER {
- background-color: red;
-}
-
-
 .buttons {
 	background-color:#12C9AD;
-/*	height: 150px;
-	width: 150px;
-	cursor: pointer;*/
 }
 .mt {
 	margin-top: 3%;
